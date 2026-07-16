@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/sejalr28.png" width="150" style="border-radius:50%;" alt="Sejal Rane" />
+
 # Hi 👋, I'm Sejal Rane
 
 ### AI Engineer • Machine Learning Engineer • Data Scientist
