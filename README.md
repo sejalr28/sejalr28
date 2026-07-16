@@ -2,19 +2,23 @@
 
 # Hi 👋, I'm Sejal Rane
 
-### Aspiring AI/ML Engineer • Computer Vision • Data Engineering • Generative AI
+### AI Engineer • Machine Learning Engineer • Data Scientist
 
 Building intelligent, end-to-end AI applications that transform real-world data into practical solutions.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sejal-rane-01474427b">
+  <a href="https://www.linkedin.com/in/sejal-rane-01474427b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-  <a href="mailto:sejalrane68@gmail.com">
+  <a href="https://cognisite-two.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:sejalrane58@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+📍 Pune, India
 
 <img src="https://komarev.com/ghpvc/?username=sejalr28&label=Profile%20Views&color=0e75b6&style=flat" />
 
@@ -24,133 +28,153 @@ Building intelligent, end-to-end AI applications that transform real-world data 
 
 # 👩‍💻 About Me
 
-I'm a Final Year B.Tech student passionate about designing and developing production-ready AI solutions that combine Machine Learning, Deep Learning, Computer Vision, and Data Engineering.
+I'm a Final Year B.Tech student passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Data Engineering, and Generative AI.
 
-I enjoy working across the complete AI lifecycle—from data collection and preprocessing to model training, backend APIs, deployment, and interactive dashboards.
+I focus on building **production-ready AI software** — not just models in notebooks, but complete systems with real APIs, real databases, and real interfaces. I work across the full lifecycle: data collection and preprocessing, model training, backend development with FastAPI, and deployment.
+
+I enjoy solving real-world problems through intelligent systems, and I continuously sharpen my skills through hands-on projects, Kaggle, open-source learning, and engineering work.
 
 ### 🚀 Current Focus
 
-* 🤖 Machine Learning & Deep Learning
+* 🤖 Machine Learning
 * 🧠 Computer Vision
-* 📚 Large Language Models (LLMs)
-* 🔍 Retrieval-Augmented Generation (RAG)
+* ✨ Generative AI
+* 📚 LLM Applications
 * ⚙️ Data Engineering
-* 🚀 FastAPI & Backend Development
+* 🚀 FastAPI
 * 🐳 Docker
-* ☁️ Cloud & MLOps
+* 🐘 PostgreSQL
+* 🔧 AI Engineering
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌞 [SolarVision AI](https://github.com/sejalr28/SolarVision-AI)
+## 🏭 [ForgeIQ — AI Manufacturing Intelligence Platform](https://github.com/sejalr28/ForgeIQ)
 
-AI-powered solar panel defect detection using MobileNetV2 and Computer Vision.
+An AI-powered manufacturing intelligence platform featuring predictive maintenance, machine health monitoring, production analytics, maintenance recommendations, and interactive dashboards.
 
 **Tech Stack**
 
-TensorFlow • Keras • Python • Streamlit • OpenCV
+Python • FastAPI • React • PostgreSQL • SQLAlchemy • Scikit-learn • XGBoost
 
 ---
 
-## 🏭 [AI Predictive Maintenance Platform](https://github.com/sejalr28/predictive-maintenance-platform)
+## 🔧 [Predictive Maintenance Platform](https://github.com/sejalr28/predictive-maintenance-platform)
 
-Enterprise-grade predictive maintenance platform for intelligent machine failure prediction.
+End-to-end predictive maintenance platform using machine learning for equipment failure prediction, anomaly detection, remaining useful life estimation, and maintenance planning.
 
-### Features
+---
 
-* Predictive Maintenance
-* Remaining Useful Life (RUL)
-* Explainable AI (SHAP)
-* FastAPI Backend
-* PostgreSQL
-* React Dashboard
+## 🎬 [NoteTube AI](https://github.com/sejalr28/NoteTube-AI)
+
+AI-powered application that converts YouTube videos into structured notes using speech-to-text, semantic search, embeddings, and large language models.
+
+---
+
+## ☀️ [HelioSight AI](https://github.com/sejalr28/HelioSight-AI)
+
+Computer vision platform for automatic solar panel defect detection using deep learning and thermal image classification.
 
 ---
 
 ## 🩺 [CKD Digital Twin](https://github.com/sejalr28/ckd-digital-twin)
 
-AI-powered Chronic Kidney Disease prediction platform featuring digital twin simulation and interactive patient analytics.
+Healthcare analytics platform that predicts chronic kidney disease risk using machine learning, featuring digital twin simulation and interactive patient analytics.
 
 ---
 
-## 💬 RAG Chatbot *(Coming Soon)*
+## 💳 [Credit Card Fraud Detection](https://github.com/sejalr28/Credit_Card_Fraud_Detection.ipynb)
 
-Retrieval-Augmented Generation application using semantic search and vector databases for intelligent document question answering.
+Machine learning pipeline for detecting fraudulent financial transactions using preprocessing, feature engineering, model evaluation, and explainable AI.
 
 ---
 
 # 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,fastapi,flask,tensorflow,mysql,postgres,docker,git,github,vscode,js" />
-
+<img src="https://skillicons.dev/icons?i=python,js,fastapi,tensorflow,postgres,mysql,react,nextjs,docker,git,github,vscode" />
 </p>
 
-### AI & Machine Learning
+<details>
+<summary><b>Machine Learning & Deep Learning</b></summary>
+<br>
 
-* TensorFlow
-* Scikit-learn
-* Pandas
-* NumPy
-* OpenCV
-* Matplotlib
-* Plotly
+TensorFlow • Scikit-learn • XGBoost • Pandas • NumPy
 
-### Data Engineering
+</details>
 
-* Apache Kafka
-* PySpark
-* ETL Pipelines
+<details>
+<summary><b>Computer Vision</b></summary>
+<br>
 
-### Databases
+OpenCV • TensorFlow
 
-* PostgreSQL
-* MySQL
-* SQLite
-* ChromaDB
+</details>
+
+<details>
+<summary><b>Generative AI</b></summary>
+<br>
+
+LangChain • RAG • Prompt Engineering
+
+</details>
+
+<details>
+<summary><b>Backend & Frontend</b></summary>
+<br>
+
+FastAPI • React • Next.js • Tailwind CSS
+
+</details>
+
+<details>
+<summary><b>Databases</b></summary>
+<br>
+
+PostgreSQL • MySQL • ChromaDB
+
+</details>
+
+<details>
+<summary><b>Data Engineering</b></summary>
+<br>
+
+Kafka • PySpark
+
+</details>
+
+<details>
+<summary><b>Visualization</b></summary>
+<br>
+
+Power BI • Tableau • Plotly • Excel
+
+</details>
+
+<details>
+<summary><b>Developer Tools</b></summary>
+<br>
+
+Git • GitHub • Docker • VS Code
+
+</details>
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sejalr28&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sejalr28&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sejalr28&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sejalr28&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 📈 Most Used Languages
-
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejalr28&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejalr28&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sejalr28&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sejalr28&theme=tokyo-night"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sejalr28&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -158,30 +182,28 @@ Retrieval-Augmented Generation application using semantic search and vector data
 # 🌱 Currently Learning
 
 * Advanced Machine Learning
-* Retrieval-Augmented Generation (RAG)
-* Agentic AI
-* MLOps
+* AI Agents
 * Data Engineering
+* MLOps
 * Distributed Systems
 * Cloud Deployment
 
 ---
 
-# 🎯 Current Goals
+# 🎯 Career Goals
 
 * Build production-ready AI products
-* Publish high-quality datasets
 * Contribute to Open Source
+* Publish AI projects
 * Strengthen Data Engineering skills
-* Learn MLOps
-* Build impactful LLM applications
+* Learn scalable AI systems
 
 ---
 
 <div align="center">
 
-### ⭐ Building AI that creates real-world impact.
+### ⭐ Building intelligent AI systems that create real-world impact.
 
-*"Learning continuously. Building consistently. Improving every day."*
+*Learning continuously • Building consistently • Improving every day.*
 
 </div>
