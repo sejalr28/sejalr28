@@ -66,8 +66,6 @@ Python • FastAPI • React • PostgreSQL • SQLAlchemy • Scikit-learn • 
 
 Production-ready Data Engineering project that transforms raw football player data into a clean, validated, AI-ready dataset through an automated ETL pipeline.
 
-GitHub:
-https://github.com/sejalr28/ScoutVerse
 
 Kaggle:
 https://www.kaggle.com/datasets/sejal28052005rane/scoutverse-players-dataset
