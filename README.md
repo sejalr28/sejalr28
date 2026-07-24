@@ -62,6 +62,32 @@ Python • FastAPI • React • PostgreSQL • SQLAlchemy • Scikit-learn • 
 
 ---
 
+## ⚽ [ScoutVerse – AI-Ready Football Player Dataset](https://github.com/sejalr28/ScoutVerse)
+
+Production-ready Data Engineering project that transforms raw football player data into a clean, validated, AI-ready dataset through an automated ETL pipeline.
+
+GitHub:
+https://github.com/sejalr28/ScoutVerse
+
+Kaggle:
+https://www.kaggle.com/datasets/sejal28052005rane/scoutverse-players-dataset
+
+**Tech Stack**
+
+Python • Pandas • NumPy • SQLite • SQL • ETL • Data Engineering
+
+---
+
+## 📈 [CommerceIQ – Marketplace Growth & Retention Intelligence Platform](https://github.com/sejalr28)
+
+End-to-end Business Intelligence platform featuring a PostgreSQL data warehouse, automated ETL pipeline, analytical SQL views, and interactive Power BI dashboards for marketplace growth, customer analytics, sales performance, and business insights.
+
+**Tech Stack**
+
+Python • PostgreSQL • SQL • Power BI • Pandas • ETL • Data Warehousing • Star Schema
+
+---
+
 ## 🔧 [Predictive Maintenance Platform](https://github.com/sejalr28/predictive-maintenance-platform)
 
 End-to-end predictive maintenance platform using machine learning for equipment failure prediction, anomaly detection, remaining useful life estimation, and maintenance planning.
@@ -89,6 +115,18 @@ Healthcare analytics platform that predicts chronic kidney disease risk using ma
 ## 💳 [Credit Card Fraud Detection](https://github.com/sejalr28/Credit_Card_Fraud_Detection.ipynb)
 
 Machine learning pipeline for detecting fraudulent financial transactions using preprocessing, feature engineering, model evaluation, and explainable AI.
+
+---
+
+# 📊 Public Dataset
+
+⚽ ScoutVerse Players Dataset
+
+GitHub:
+https://github.com/sejalr28/ScoutVerse
+
+Kaggle:
+https://www.kaggle.com/datasets/sejal28052005rane/scoutverse-players-dataset
 
 ---
 
