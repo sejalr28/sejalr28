@@ -12,7 +12,7 @@ Building intelligent, end-to-end AI applications that transform real-world data 
   <a href="https://www.linkedin.com/in/sejal-rane-01474427b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://cognisite-two.vercel.app/">
+  <a href="[https://cognisite-two.vercel.app/](https://ai-engineer-portfolio-three-bice.vercel.app/)">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:sejalrane58@gmail.com">
