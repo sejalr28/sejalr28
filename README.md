@@ -132,6 +132,12 @@ A healthcare analytics platform that predicts chronic kidney disease risk using 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sejalr28&theme=tokyo-night&hide_border=true"/>
 </p>
 
+### Contribution Heatmap
+
+<p align="center">
+<img src="https://ghchart.rshah.org/sejalr28" alt="Sejal Rane's GitHub Contribution Chart" />
+</p>
+
 ---
 
 ## Currently Learning
