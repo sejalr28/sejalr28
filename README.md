@@ -4,9 +4,9 @@
 
 # Sejal Rane
 
-### AI Engineer · Machine Learning Engineer · Data Scientist
+### Final Year B.Tech Student · Aspiring AI/ML Engineer
 
-Building end-to-end, production-grade AI systems that turn real-world data into practical, deployable solutions.
+Learning to build end-to-end AI systems that turn real-world data into practical, working solutions.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sejal-rane-01474427b/">
@@ -85,10 +85,13 @@ A healthcare analytics platform that predicts chronic kidney disease risk using 
 
 ---
 
-### 🛡️ [ReliForge — AI Reliability Evaluation Platform](https://github.com/sejalr28/reliforge)
-A production-ready platform for evaluating large language models by measuring latency, token usage, response cost, and reliability scores — with an interactive analytics dashboard, prompt evaluation workspace, historical tracking, and AI-generated insights powered by local LLMs.
+### 🛡️ [ReliForge — Multi-LLM Reliability & Evaluation Platform](https://github.com/sejalr28/reliforge)
 
-**Stack:** Python · FastAPI · React · TypeScript · PostgreSQL · SQLAlchemy · Ollama · Tailwind CSS · Recharts
+**Stack:** Python · FastAPI · PostgreSQL · Docker · SQLAlchemy · OpenAI API · Anthropic API · Ollama
+
+- Designed and developed a multi-provider AI evaluation platform supporting OpenAI, Anthropic, and local Ollama models through a unified FastAPI backend and provider abstraction layer.
+- Built persistent experiment tracking with PostgreSQL and SQLAlchemy, enabling structured storage and comparison of prompts, responses, evaluation results, and model metadata.
+- Containerized the backend using Docker and implemented production-oriented REST APIs, configuration management, and modular architecture for scalable LLM benchmarking and observability.
 
 ---
 
@@ -121,17 +124,19 @@ A production-ready platform for evaluating large language models by measuring la
 ## GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sejalr28&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sejalr28&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sejalr28&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejalr28&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sejalr28&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejalr28&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sejalr28&theme=tokyo-night&hide_border=true"/>
 </p>
+
+<sub>Note: these stat cards are generated live by third-party services (github-readme-stats, github-profile-summary-cards). They render correctly once the file is on your actual GitHub profile — they can show as broken/blank in local previews or if a service is briefly rate-limited.</sub>
 
 ---
 
