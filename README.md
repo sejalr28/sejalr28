@@ -124,19 +124,13 @@ A healthcare analytics platform that predicts chronic kidney disease risk using 
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sejalr28&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sejalr28&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejalr28&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=sejalr28&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sejalr28&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sejalr28&theme=tokyo-night&hide_border=true"/>
 </p>
-
-<sub>Note: these stat cards are generated live by third-party services (github-readme-stats, github-profile-summary-cards). They render correctly once the file is on your actual GitHub profile — they can show as broken/blank in local previews or if a service is briefly rate-limited.</sub>
 
 ---
 
