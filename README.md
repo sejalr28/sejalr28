@@ -110,9 +110,13 @@ Healthcare analytics platform that predicts chronic kidney disease risk using ma
 
 ---
 
-## 💳 [Credit Card Fraud Detection](https://github.com/sejalr28/Credit_Card_Fraud_Detection.ipynb)
+## 🛡️ [ReliForge – AI Reliability Evaluation Platform](https://github.com/sejalr28/reliforge)
 
-Machine learning pipeline for detecting fraudulent financial transactions using preprocessing, feature engineering, model evaluation, and explainable AI.
+Production-ready AI reliability platform for evaluating Large Language Models (LLMs) by measuring latency, token usage, response cost, and reliability scores. Features an interactive analytics dashboard, prompt evaluation workspace, historical evaluation tracking, AI insights, and configurable model settings powered by local LLMs.
+
+**Tech Stack**
+
+Python • FastAPI • React • TypeScript • PostgreSQL • SQLAlchemy • Ollama • Tailwind CSS • Recharts
 
 ---
 
