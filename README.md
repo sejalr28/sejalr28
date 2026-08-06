@@ -2,19 +2,19 @@
 
 <img src="https://github.com/sejalr28.png" width="150" style="border-radius:50%;" alt="Sejal Rane" />
 
-# Hi 👋, I'm Sejal Rane
+# Sejal Rane
 
-### AI Engineer • Machine Learning Engineer • Data Scientist
+### AI Engineer · Machine Learning Engineer · Data Scientist
 
-Building intelligent, end-to-end AI applications that transform real-world data into practical solutions.
+Building end-to-end, production-grade AI systems that turn real-world data into practical, deployable solutions.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sejal-rane-01474427b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
- <a href="https://ai-engineer-portfolio-three-bice.vercel.app/" target="_blank">
+  <a href="https://ai-engineer-portfolio-three-bice.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+  </a>
   <a href="mailto:sejalrane58@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -28,183 +28,97 @@ Building intelligent, end-to-end AI applications that transform real-world data 
 
 ---
 
-# 👩‍💻 About Me
+## About Me
 
-I'm a Final Year B.Tech student passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Data Engineering, and Generative AI.
+I'm a final-year B.Tech student specializing in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Data Engineering, and Generative AI.
 
-I focus on building **production-ready AI software** — not just models in notebooks, but complete systems with real APIs, real databases, and real interfaces. I work across the full lifecycle: data collection and preprocessing, model training, backend development with FastAPI, and deployment.
+My focus is on building **production-ready AI software** — not just models in notebooks, but complete systems backed by real APIs, real databases, and real interfaces. I work across the full development lifecycle: data collection and preprocessing, model training and evaluation, backend development with FastAPI, and deployment.
 
-I enjoy solving real-world problems through intelligent systems, and I continuously sharpen my skills through hands-on projects, Kaggle, open-source learning, and engineering work.
+I enjoy solving real-world problems through intelligent systems and continuously sharpen my skills through hands-on projects, Kaggle competitions, open-source contributions, and independent engineering work.
 
-### 🚀 Current Focus
-
-* 🤖 Machine Learning
-* 🧠 Computer Vision
-* ✨ Generative AI
-* 📚 LLM Applications
-* ⚙️ Data Engineering
-* 🚀 FastAPI
-* 🐳 Docker
-* 🐘 PostgreSQL
-* 🔧 AI Engineering
+**Current focus areas:** Machine Learning · Computer Vision · Generative AI · LLM Applications · Data Engineering · FastAPI · Docker · PostgreSQL · AI Engineering
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-## 🏭 [ForgeIQ — AI Manufacturing Intelligence Platform](https://github.com/sejalr28/ForgeIQ)
+### 🏭 [ForgeIQ — AI Manufacturing Intelligence Platform](https://github.com/sejalr28/ForgeIQ)
+An AI-powered manufacturing intelligence platform delivering predictive maintenance, machine health monitoring, production analytics, maintenance recommendations, and interactive dashboards.
 
-An AI-powered manufacturing intelligence platform featuring predictive maintenance, machine health monitoring, production analytics, maintenance recommendations, and interactive dashboards.
-
-**Tech Stack**
-
-Python • FastAPI • React • PostgreSQL • SQLAlchemy • Scikit-learn • XGBoost
+**Stack:** Python · FastAPI · React · PostgreSQL · SQLAlchemy · Scikit-learn · XGBoost
 
 ---
 
-## ⚽ [ScoutVerse – AI-Ready Football Player Dataset](https://github.com/sejalr28/ScoutVerse)
+### ⚽ [ScoutVerse — AI-Ready Football Player Dataset](https://github.com/sejalr28/ScoutVerse)
+A production-ready data engineering project that transforms raw football player data into a clean, validated, AI-ready dataset through an automated ETL pipeline.
 
-Production-ready Data Engineering project that transforms raw football player data into a clean, validated, AI-ready dataset through an automated ETL pipeline.
+**Stack:** Python · Pandas · NumPy · SQLite · SQL · ETL · Data Engineering
 
-
-Kaggle:
-https://www.kaggle.com/datasets/sejal28052005rane/scoutverse-players-dataset
-
-**Tech Stack**
-
-Python • Pandas • NumPy • SQLite • SQL • ETL • Data Engineering
+🔗 [Kaggle Dataset](https://www.kaggle.com/datasets/sejal28052005rane/scoutverse-players-dataset)
 
 ---
 
-## 📈 [CommerceIQ – Marketplace Growth & Retention Intelligence Platform](https://github.com/sejalr28)
+### 📈 [CommerceIQ — Marketplace Growth & Retention Intelligence Platform](https://github.com/sejalr28)
+An end-to-end business intelligence platform featuring a PostgreSQL data warehouse, automated ETL pipeline, analytical SQL views, and interactive Power BI dashboards for marketplace growth, customer analytics, and sales performance.
 
-End-to-end Business Intelligence platform featuring a PostgreSQL data warehouse, automated ETL pipeline, analytical SQL views, and interactive Power BI dashboards for marketplace growth, customer analytics, sales performance, and business insights.
-
-**Tech Stack**
-
-Python • PostgreSQL • SQL • Power BI • Pandas • ETL • Data Warehousing • Star Schema
+**Stack:** Python · PostgreSQL · SQL · Power BI · Pandas · ETL · Data Warehousing · Star Schema
 
 ---
 
-## 🔧 [Predictive Maintenance Platform](https://github.com/sejalr28/predictive-maintenance-platform)
-
-End-to-end predictive maintenance platform using machine learning for equipment failure prediction, anomaly detection, remaining useful life estimation, and maintenance planning.
-
----
-
-## 🎬 [NoteTube AI](https://github.com/sejalr28/NoteTube-AI)
-
-AI-powered application that converts YouTube videos into structured notes using speech-to-text, semantic search, embeddings, and large language models.
+### 🔧 [Predictive Maintenance Platform](https://github.com/sejalr28/predictive-maintenance-platform)
+An end-to-end predictive maintenance system using machine learning for equipment failure prediction, anomaly detection, remaining useful life estimation, and maintenance planning.
 
 ---
 
-## ☀️ [HelioSight AI](https://github.com/sejalr28/HelioSight-AI)
-
-Computer vision platform for automatic solar panel defect detection using deep learning and thermal image classification.
-
----
-
-## 🩺 [CKD Digital Twin](https://github.com/sejalr28/ckd-digital-twin)
-
-Healthcare analytics platform that predicts chronic kidney disease risk using machine learning, featuring digital twin simulation and interactive patient analytics.
+### 🎬 [NoteTube AI](https://github.com/sejalr28/NoteTube-AI)
+An AI-powered application that converts YouTube videos into structured notes using speech-to-text, semantic search, embeddings, and large language models.
 
 ---
 
-## 🛡️ [ReliForge – AI Reliability Evaluation Platform](https://github.com/sejalr28/reliforge)
-
-Production-ready AI reliability platform for evaluating Large Language Models (LLMs) by measuring latency, token usage, response cost, and reliability scores. Features an interactive analytics dashboard, prompt evaluation workspace, historical evaluation tracking, AI insights, and configurable model settings powered by local LLMs.
-
-**Tech Stack**
-
-Python • FastAPI • React • TypeScript • PostgreSQL • SQLAlchemy • Ollama • Tailwind CSS • Recharts
+### ☀️ [HelioSight AI](https://github.com/sejalr28/HelioSight-AI)
+A computer vision platform for automated solar panel defect detection using deep learning and thermal image classification.
 
 ---
 
-# 📊 Public Dataset
-
-⚽ ScoutVerse Players Dataset
-
-GitHub:
-https://github.com/sejalr28/ScoutVerse
-
-Kaggle:
-https://www.kaggle.com/datasets/sejal28052005rane/scoutverse-players-dataset
+### 🩺 [CKD Digital Twin](https://github.com/sejalr28/ckd-digital-twin)
+A healthcare analytics platform that predicts chronic kidney disease risk using machine learning, featuring digital twin simulation and interactive patient analytics.
 
 ---
 
-# 💻 Tech Stack
+### 🛡️ [ReliForge — AI Reliability Evaluation Platform](https://github.com/sejalr28/reliforge)
+A production-ready platform for evaluating large language models by measuring latency, token usage, response cost, and reliability scores — with an interactive analytics dashboard, prompt evaluation workspace, historical tracking, and AI-generated insights powered by local LLMs.
+
+**Stack:** Python · FastAPI · React · TypeScript · PostgreSQL · SQLAlchemy · Ollama · Tailwind CSS · Recharts
+
+---
+
+## Public Dataset
+
+**⚽ ScoutVerse Players Dataset**
+[GitHub](https://github.com/sejalr28/ScoutVerse) · [Kaggle](https://www.kaggle.com/datasets/sejal28052005rane/scoutverse-players-dataset)
+
+---
+
+## Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,fastapi,tensorflow,postgres,mysql,react,nextjs,docker,git,github,vscode" />
 </p>
 
-<details>
-<summary><b>Machine Learning & Deep Learning</b></summary>
-<br>
-
-TensorFlow • Scikit-learn • XGBoost • Pandas • NumPy
-
-</details>
-
-<details>
-<summary><b>Computer Vision</b></summary>
-<br>
-
-OpenCV • TensorFlow
-
-</details>
-
-<details>
-<summary><b>Generative AI</b></summary>
-<br>
-
-LangChain • RAG • Prompt Engineering
-
-</details>
-
-<details>
-<summary><b>Backend & Frontend</b></summary>
-<br>
-
-FastAPI • React • Next.js • Tailwind CSS
-
-</details>
-
-<details>
-<summary><b>Databases</b></summary>
-<br>
-
-PostgreSQL • MySQL • ChromaDB
-
-</details>
-
-<details>
-<summary><b>Data Engineering</b></summary>
-<br>
-
-Kafka • PySpark
-
-</details>
-
-<details>
-<summary><b>Visualization</b></summary>
-<br>
-
-Power BI • Tableau • Plotly • Excel
-
-</details>
-
-<details>
-<summary><b>Developer Tools</b></summary>
-<br>
-
-Git • GitHub • Docker • VS Code
-
-</details>
+| Category | Tools & Technologies |
+|---|---|
+| **Machine Learning & Deep Learning** | TensorFlow · Scikit-learn · XGBoost · Pandas · NumPy |
+| **Computer Vision** | OpenCV · TensorFlow |
+| **Generative AI** | LangChain · RAG · Prompt Engineering |
+| **Backend & Frontend** | FastAPI · React · Next.js · Tailwind CSS |
+| **Databases** | PostgreSQL · MySQL · ChromaDB |
+| **Data Engineering** | Kafka · PySpark |
+| **Visualization** | Power BI · Tableau · Plotly · Excel |
+| **Developer Tools** | Git · GitHub · Docker · VS Code |
 
 ---
 
-# 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=sejalr28&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -221,31 +135,26 @@ Git • GitHub • Docker • VS Code
 
 ---
 
-# 🌱 Currently Learning
+## Currently Learning
 
-* Advanced Machine Learning
-* AI Agents
-* Data Engineering
-* MLOps
-* Distributed Systems
-* Cloud Deployment
+Advanced Machine Learning · AI Agents · Data Engineering · MLOps · Distributed Systems · Cloud Deployment
 
 ---
 
-# 🎯 Career Goals
+## Career Goals
 
-* Build production-ready AI products
-* Contribute to Open Source
-* Publish AI projects
-* Strengthen Data Engineering skills
-* Learn scalable AI systems
+- Build production-ready AI products with real-world impact
+- Contribute to open-source AI/ML projects
+- Publish and share AI research and projects
+- Deepen expertise in data engineering and scalable systems
+- Master cloud-native, production-grade AI deployment
 
 ---
 
 <div align="center">
 
-### ⭐ Building intelligent AI systems that create real-world impact.
+### Building intelligent AI systems that create real-world impact.
 
-*Learning continuously • Building consistently • Improving every day.*
+*Learning continuously · Building consistently · Improving every day.*
 
 </div>
