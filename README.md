@@ -10,24 +10,24 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FFB000&center=true&vCenter=true&width=650&lines=%24+whoami;Sejal+Rane+%E2%80%94+AI%2FML+%26+Data+Science+Undergrad;%24+status;Building+CV%2C+NLP+%26+GenAI+projects;%24+open_to;AI+Intern+%7C+Data+Analyst+%7C+Data+Scientist" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20DS)-0D1117?style=flat-square&labelColor=FFB000&color=0D1117"/>
-<img src="https://img.shields.io/badge/MIT%20World%20Peace%20University-0D1117?style=flat-square&labelColor=FF6B35&color=0D1117"/>
-<img src="https://img.shields.io/badge/📍-Pune,%20India-0D1117?style=flat-square&labelColor=FFB000&color=0D1117"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/sejal-rane-01474427b/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFB000"/></a>
-<a href="https://ai-engineer-portfolio-three-bice.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=FFB000"/></a>
-<a href="mailto:sejalrane58@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FFB000"/></a>
-<a href="https://github.com/sejalr28"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFB000"/></a>
+<img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20DS)-FFB000?style=flat-square&labelColor=1A1B26&color=FFB000&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/MIT%20World%20Peace%20University-FF6B35?style=flat-square&labelColor=1A1B26&color=FF6B35"/>
+<img src="https://img.shields.io/badge/📍%20Pune,%20India-FFB000?style=flat-square&labelColor=1A1B26&color=FFB000"/>
 
 <br/><br/>
+
+<a href="https://www.linkedin.com/in/sejal-rane-01474427b/"><img src="https://img.shields.io/badge/LinkedIn-FFB000?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=FFB000"/></a>
+<a href="https://ai-engineer-portfolio-three-bice.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=FF6B35"/></a>
+<a href="mailto:sejalrane58@gmail.com"><img src="https://img.shields.io/badge/Email-FFB000?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=FFB000"/></a>
+<a href="https://github.com/sejalr28"><img src="https://img.shields.io/badge/GitHub-FF6B35?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=FF6B35"/></a>
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=sejalr28&label=Profile%20Views&color=FFB000&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/sejalr28?label=Followers&style=flat-square&labelColor=0D1117&color=FF6B35"/>
-<img src="https://img.shields.io/github/stars/sejalr28?label=Stars&style=flat-square&labelColor=0D1117&color=FFB000"/>
+<img src="https://img.shields.io/github/followers/sejalr28?label=Followers&style=flat-square&labelColor=1A1B26&color=FF6B35"/>
+<img src="https://img.shields.io/github/stars/sejalr28?label=Stars&style=flat-square&labelColor=1A1B26&color=FFB000"/>
 
 </div>
 
@@ -55,14 +55,14 @@ OPEN_TO  : AI/ML Internship · AI Internship · Data Analyst Internship · Data 
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FFB000)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=FFB000)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=FFB000)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6B35)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=FF6B35)
-![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=FFB000)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=FFB000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=FF6B35)
+![Python](https://img.shields.io/badge/Python-1A1B26?style=flat-square&logo=python&logoColor=FFB000)
+![Pandas](https://img.shields.io/badge/Pandas-1A1B26?style=flat-square&logo=pandas&logoColor=FFB000)
+![NumPy](https://img.shields.io/badge/NumPy-1A1B26?style=flat-square&logo=numpy&logoColor=FFB000)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1A1B26?style=flat-square&logo=tensorflow&logoColor=FF6B35)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-1A1B26?style=flat-square&logo=scikitlearn&logoColor=FF6B35)
+![OpenCV](https://img.shields.io/badge/OpenCV-1A1B26?style=flat-square&logo=opencv&logoColor=FFB000)
+![FastAPI](https://img.shields.io/badge/FastAPI-1A1B26?style=flat-square&logo=fastapi&logoColor=FFB000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1B26?style=flat-square&logo=postgresql&logoColor=FF6B35)
 
 </div>
 
@@ -72,10 +72,10 @@ OPEN_TO  : AI/ML Internship · AI Internship · Data Analyst Internship · Data 
 
 <div align="center">
 
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0D1117?style=for-the-badge&labelColor=FFB000&color=0D1117)
-![NLP](https://img.shields.io/badge/NLP-0D1117?style=for-the-badge&labelColor=FF6B35&color=0D1117)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-0D1117?style=for-the-badge&labelColor=FFB000&color=0D1117)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-0D1117?style=for-the-badge&labelColor=FF6B35&color=0D1117)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1A1B26?style=for-the-badge&labelColor=FFB000&color=1A1B26)
+![NLP](https://img.shields.io/badge/NLP-1A1B26?style=for-the-badge&labelColor=FF6B35&color=1A1B26)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-1A1B26?style=for-the-badge&labelColor=FFB000&color=1A1B26)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-1A1B26?style=for-the-badge&labelColor=FF6B35&color=1A1B26)
 
 </div>
 
@@ -237,9 +237,9 @@ Multi-provider AI evaluation platform supporting OpenAI, Anthropic, and local Ol
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/B.Tech%20CSE%20(AI%20%26%20DS)-0D1117?style=for-the-badge&labelColor=FFB000&color=0D1117"/>
-<img src="https://img.shields.io/badge/MIT%20World%20Peace%20University-0D1117?style=for-the-badge&labelColor=FF6B35&color=0D1117"/>
-<img src="https://img.shields.io/badge/Final%20Year%20(4th%20Yr)-0D1117?style=for-the-badge&labelColor=FFB000&color=0D1117"/>
+<img src="https://img.shields.io/badge/B.Tech%20CSE%20(AI%20%26%20DS)-1A1B26?style=for-the-badge&labelColor=FFB000&color=1A1B26"/>
+<img src="https://img.shields.io/badge/MIT%20World%20Peace%20University-1A1B26?style=for-the-badge&labelColor=FF6B35&color=1A1B26"/>
+<img src="https://img.shields.io/badge/Final%20Year%20(4th%20Yr)-1A1B26?style=for-the-badge&labelColor=FFB000&color=1A1B26"/>
 
 </div>
 
@@ -303,12 +303,12 @@ open_to:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sejal-rane-01474427b/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFB000"/></a>
-<a href="https://ai-engineer-portfolio-three-bice.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=FFB000"/></a>
-<a href="mailto:sejalrane58@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FFB000"/></a>
-<a href="https://github.com/sejalr28"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFB000"/></a>
+<a href="https://www.linkedin.com/in/sejal-rane-01474427b/"><img src="https://img.shields.io/badge/LinkedIn-FFB000?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=FFB000"/></a>
+<a href="https://ai-engineer-portfolio-three-bice.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=FF6B35"/></a>
+<a href="mailto:sejalrane58@gmail.com"><img src="https://img.shields.io/badge/Email-FFB000?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=FFB000"/></a>
+<a href="https://github.com/sejalr28"><img src="https://img.shields.io/badge/GitHub-FF6B35?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=FF6B35"/></a>
 
-<br/><br/>
+<br/>
 
 *"Learning continuously · Building consistently · Improving every day."*
 
