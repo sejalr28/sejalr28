@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/sejalr28.png" width="150" style="border-radius:50%;" alt="Sejal Rane" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,100:06B6D4&height=180&section=header&text=Hi%20👋,%20I'm%20Sejal%20Rane&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=AI%2FML%20%7C%20Data%20Science%20%7C%20Machine%20Learning%20Engineer&descAlignY=60&descSize=18" width="100%"/>
 
-# Hi 👋, I'm Sejal Rane
+<img src="https://github.com/sejalr28.png" width="150" style="border-radius:50%; border: 3px solid #0891B2;" alt="Sejal Rane" />
 
 ### Final Year B.Tech Student (CSE — AI & Data Science) · Aspiring AI/ML Engineer
 
@@ -253,6 +253,16 @@ Git • GitHub • Docker • VS Code
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/sejalr28/sejalr28/output/github-contribution-grid-snake-dark.svg" alt="Snake animation eating my GitHub contribution graph" />
+</p>
+
+<sub>Powered by the GitHub Actions workflow in this repo (`.github/workflows/snake.yml`) — runs daily and regenerates automatically.</sub>
+
+---
+
 # 🌱 Currently Learning
 
 * Advanced Machine Learning
@@ -280,5 +290,7 @@ Git • GitHub • Docker • VS Code
 ### ⭐ Building intelligent AI systems that create real-world impact.
 
 *Learning continuously • Building consistently • Improving every day.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,100:06B6D4&height=100&section=footer" width="100%"/>
 
 </div>
