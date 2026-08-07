@@ -1,317 +1,284 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1A1B26&height=160&section=header&text=Sejal%20Rane&fontSize=48&fontColor=FFB000&fontAlignY=40&desc=Final%20Year%20AI%20%26%20Data%20Science%20Undergrad&descAlignY=65&descColor=FF6B35&descSize=18" width="100%"/>
+<img src="https://github.com/sejalr28.png" width="150" style="border-radius:50%;" alt="Sejal Rane" />
 
-<img src="https://github.com/sejalr28.png" width="130" style="border-radius:50%; border: 3px solid #FFB000;" alt="Sejal Rane" />
+# Hi 👋, I'm Sejal Rane
 
-<br/>
+### Final Year B.Tech Student (CSE — AI & Data Science) · Aspiring AI/ML Engineer
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FFB000&center=true&vCenter=true&width=650&lines=%24+whoami;Sejal+Rane+%E2%80%94+AI%2FML+%26+Data+Science+Undergrad;%24+status;Building+CV%2C+NLP+%26+GenAI+projects;%24+open_to;AI+Intern+%7C+Data+Analyst+%7C+Data+Scientist" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20DS)-FFB000?style=flat-square&labelColor=1A1B26&color=FFB000&logoColor=0D1117"/>
-<img src="https://img.shields.io/badge/MIT%20World%20Peace%20University-FF6B35?style=flat-square&labelColor=1A1B26&color=FF6B35"/>
-<img src="https://img.shields.io/badge/📍%20Pune,%20India-FFB000?style=flat-square&labelColor=1A1B26&color=FFB000"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/sejal-rane-01474427b/"><img src="https://img.shields.io/badge/LinkedIn-FFB000?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=FFB000"/></a>
-<a href="https://ai-engineer-portfolio-three-bice.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=FF6B35"/></a>
-<a href="mailto:sejalrane58@gmail.com"><img src="https://img.shields.io/badge/Email-FFB000?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=FFB000"/></a>
-<a href="https://github.com/sejalr28"><img src="https://img.shields.io/badge/GitHub-FF6B35?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=FF6B35"/></a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=sejalr28&label=Profile%20Views&color=FFB000&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/sejalr28?label=Followers&style=flat-square&labelColor=1A1B26&color=FF6B35"/>
-<img src="https://img.shields.io/github/stars/sejalr28?label=Stars&style=flat-square&labelColor=1A1B26&color=FFB000"/>
-
-</div>
-
-<br/>
-
-## `$ about --me`
-
-I'm a final-year B.Tech (CSE — AI & Data Science) undergrad at **MIT World Peace University**, building end-to-end projects across Computer Vision, Machine Learning, Deep Learning, NLP, and Generative AI. I focus on shipping complete systems — real APIs, real databases, real interfaces — rather than notebook-only experiments, and I'm actively looking for my first internship in AI/Data.
-
-```bash
-ROLE     : AI/ML Enthusiast · Final Year Undergrad
-DOMAIN   : Computer Vision · ML/DL · NLP · Generative AI · Data Analytics
-STACK    : Python, FastAPI, TensorFlow, Scikit-learn, PostgreSQL, React, Docker
-OPEN_TO  : AI/ML Internship · AI Internship · Data Analyst Internship · Data Scientist (Entry-level)
-```
-
----
-
-## `$ tech --stack`
+Building intelligent, end-to-end AI applications that transform real-world data into practical solutions.
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,react,nextjs,postgres,mysql&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,js,html,css&theme=dark" />
+  <a href="https://www.linkedin.com/in/sejal-rane-01474427b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+ <a href="https://ai-engineer-portfolio-three-bice.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+  <a href="mailto:sejalrane58@gmail.com">
+    <img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-<div align="center">
+📍 Pune, India
 
-![Python](https://img.shields.io/badge/Python-1A1B26?style=flat-square&logo=python&logoColor=FFB000)
-![Pandas](https://img.shields.io/badge/Pandas-1A1B26?style=flat-square&logo=pandas&logoColor=FFB000)
-![NumPy](https://img.shields.io/badge/NumPy-1A1B26?style=flat-square&logo=numpy&logoColor=FFB000)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1A1B26?style=flat-square&logo=tensorflow&logoColor=FF6B35)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-1A1B26?style=flat-square&logo=scikitlearn&logoColor=FF6B35)
-![OpenCV](https://img.shields.io/badge/OpenCV-1A1B26?style=flat-square&logo=opencv&logoColor=FFB000)
-![FastAPI](https://img.shields.io/badge/FastAPI-1A1B26?style=flat-square&logo=fastapi&logoColor=FFB000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1B26?style=flat-square&logo=postgresql&logoColor=FF6B35)
+<img src="https://komarev.com/ghpvc/?username=sejalr28&label=Profile%20Views&color=0891B2&style=flat" />
 
 </div>
 
 ---
 
-## `$ specialties --list`
+# 👩‍💻 About Me
 
-<div align="center">
+I'm a final-year B.Tech student (CSE — AI & Data Science) at **MIT World Peace University**, passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Data Engineering, and Generative AI.
 
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1A1B26?style=for-the-badge&labelColor=FFB000&color=1A1B26)
-![NLP](https://img.shields.io/badge/NLP-1A1B26?style=for-the-badge&labelColor=FF6B35&color=1A1B26)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-1A1B26?style=for-the-badge&labelColor=FFB000&color=1A1B26)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-1A1B26?style=for-the-badge&labelColor=FF6B35&color=1A1B26)
+I focus on building **production-style AI software** — not just models in notebooks, but complete systems with real APIs, real databases, and real interfaces. I work across the full lifecycle: data collection and preprocessing, model training, backend development with FastAPI, and deployment.
 
-</div>
+I don't have formal internship experience yet — I'm actively looking for one — and in the meantime I've built hands-on skills through personal projects, two Forage job simulations (Deloitte and Tata), 11 verified certifications, and a published Kaggle dataset.
 
----
+**Open to:** AI/ML Internships · AI Internships · Data Analyst Internships · Entry-level Data Scientist roles
 
-## `$ cat expertise.md`
+### 🚀 Current Focus
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| Machine Learning | ●●●●○ | Scikit-learn, XGBoost — predictive models, feature engineering |
-| Deep Learning / Computer Vision | ●●●●○ | TensorFlow, OpenCV — image classification, defect detection |
-| NLP & Generative AI | ●●●○○ | LangChain, RAG, prompt engineering, LLM-based applications |
-| Backend Engineering | ●●●●○ | FastAPI, PostgreSQL, SQLAlchemy — production-style APIs |
-| Data Engineering | ●●●○○ | ETL pipelines, data warehousing, star-schema modeling |
-| Data Visualization | ●●●●○ | Power BI, Tableau, Plotly — analytics dashboards |
+* 🤖 Machine Learning
+* 🧠 Computer Vision
+* ✨ Generative AI
+* 📚 LLM Applications
+* ⚙️ Data Engineering
+* 🚀 FastAPI
+* 🐳 Docker
+* 🐘 PostgreSQL
 
 ---
 
-## `$ ls ./featured-projects`
+# 🚀 Featured Projects
 
-<details open>
-<summary><b>🏭 ForgeIQ — AI Manufacturing Intelligence Platform</b></summary>
-<br/>
+## 🏭 [ForgeIQ — AI Manufacturing Intelligence Platform](https://github.com/sejalr28/ForgeIQ)
 
-An AI-powered manufacturing intelligence platform with predictive maintenance, machine health monitoring, production analytics, and interactive dashboards.
+An AI-powered manufacturing intelligence platform featuring predictive maintenance, machine health monitoring, production analytics, maintenance recommendations, and interactive dashboards.
 
-| Stack | Scale | Impact |
-|---|---|---|
-| Python, FastAPI, React, PostgreSQL, SQLAlchemy, Scikit-learn, XGBoost | Full-stack platform with ML backend + dashboard | Demonstrates end-to-end predictive maintenance workflow |
+**Tech Stack**
 
-🔗 [Repository](https://github.com/sejalr28/ForgeIQ)
-</details>
+Python • FastAPI • React • PostgreSQL • SQLAlchemy • Scikit-learn • XGBoost
 
-<details>
-<summary><b>⚽ ScoutVerse — AI-Ready Football Player Dataset</b></summary>
-<br/>
+---
 
-Production-ready data engineering project transforming raw football player data into a clean, validated, AI-ready dataset through an automated ETL pipeline. Published as a public dataset on Kaggle.
+## ⚽ [ScoutVerse – AI-Ready Football Player Dataset](https://github.com/sejalr28/ScoutVerse)
 
-| Stack | Scale | Impact |
-|---|---|---|
-| Python, Pandas, NumPy, SQLite, SQL, ETL | Automated ETL pipeline, published dataset | Publicly available on Kaggle for other builders |
+Production-ready Data Engineering project that transforms raw football player data into a clean, validated, AI-ready dataset through an automated ETL pipeline.
 
-🔗 [Repository](https://github.com/sejalr28/ScoutVerse) · [Kaggle Dataset](https://www.kaggle.com/datasets/sejal28052005rane/scoutverse-players-dataset)
-</details>
+Kaggle:
+https://www.kaggle.com/datasets/sejal28052005rane/scoutverse-players-dataset
 
-<details>
-<summary><b>📈 CommerceIQ — Marketplace Growth & Retention Intelligence Platform</b></summary>
-<br/>
+**Tech Stack**
 
-End-to-end BI platform with a PostgreSQL data warehouse, automated ETL pipeline, analytical SQL views, and interactive Power BI dashboards for marketplace growth, customer analytics, and sales performance.
+Python • Pandas • NumPy • SQLite • SQL • ETL • Data Engineering
 
-| Stack | Scale | Impact |
-|---|---|---|
-| Python, PostgreSQL, SQL, Power BI, Pandas, ETL, Star Schema | Full data warehouse + BI layer | Demonstrates business-intelligence pipeline design |
+---
 
-🔗 [Repository](https://github.com/sejalr28)
-</details>
+## 📈 [CommerceIQ – Marketplace Growth & Retention Intelligence Platform](https://github.com/sejalr28)
 
-<details>
-<summary><b>🔧 Predictive Maintenance Platform</b></summary>
-<br/>
+End-to-end Business Intelligence platform featuring a PostgreSQL data warehouse, automated ETL pipeline, analytical SQL views, and interactive Power BI dashboards for marketplace growth, customer analytics, sales performance, and business insights.
 
-End-to-end predictive maintenance system using machine learning for equipment failure prediction, anomaly detection, remaining useful life estimation, and maintenance planning.
+**Tech Stack**
 
-🔗 [Repository](https://github.com/sejalr28/predictive-maintenance-platform)
-</details>
+Python • PostgreSQL • SQL • Power BI • Pandas • ETL • Data Warehousing • Star Schema
 
-<details>
-<summary><b>🎬 NoteTube AI</b></summary>
-<br/>
+---
+
+## 🔧 [Predictive Maintenance Platform](https://github.com/sejalr28/predictive-maintenance-platform)
+
+End-to-end predictive maintenance platform using machine learning for equipment failure prediction, anomaly detection, remaining useful life estimation, and maintenance planning.
+
+---
+
+## 🎬 [NoteTube AI](https://github.com/sejalr28/NoteTube-AI)
 
 AI-powered application that converts YouTube videos into structured notes using speech-to-text, semantic search, embeddings, and large language models.
 
-🔗 [Repository](https://github.com/sejalr28/NoteTube-AI)
+---
+
+## ☀️ [HelioSight AI](https://github.com/sejalr28/HelioSight-AI)
+
+Computer vision platform for automatic solar panel defect detection using deep learning and thermal image classification.
+
+---
+
+## 🩺 [CKD Digital Twin](https://github.com/sejalr28/ckd-digital-twin)
+
+Healthcare analytics platform that predicts chronic kidney disease risk using machine learning, featuring digital twin simulation and interactive patient analytics.
+
+---
+
+## 🛡️ [ReliForge – Multi-LLM Reliability & Evaluation Platform](https://github.com/sejalr28/reliforge)
+
+Multi-provider AI evaluation platform supporting OpenAI, Anthropic, and local Ollama models through a unified FastAPI backend and provider abstraction layer, with persistent experiment tracking via PostgreSQL and SQLAlchemy for structured storage and comparison of prompts, responses, and evaluation results.
+
+**Tech Stack**
+
+Python • FastAPI • PostgreSQL • Docker • SQLAlchemy • OpenAI API • Anthropic API • Ollama
+
+---
+
+# 📊 Public Dataset
+
+⚽ ScoutVerse Players Dataset
+
+GitHub:
+https://github.com/sejalr28/ScoutVerse
+
+Kaggle:
+https://www.kaggle.com/datasets/sejal28052005rane/scoutverse-players-dataset
+
+---
+
+# 🧪 Practical Training
+
+No formal internships yet — actively looking for one. In the meantime, I've completed real-world job simulations:
+
+* **GenAI Powered Data Analytics Job Simulation** — Tata, via Forage (Jul 2026): exploratory data analysis and risk profiling, predicting delinquency with AI, data storytelling for collections strategy
+* **Data Analytics Job Simulation** — Deloitte, via Forage (Jul 2026): practical tasks in data analysis and forensic technology
+
+---
+
+# 🎓 Education
+
+**B.Tech, Computer Science & Engineering (AI & Data Science)**
+MIT World Peace University — Final Year (4th Year)
+
+---
+
+# 📜 Certifications
+
+* Data Analytics Job Simulation — Deloitte, via Forage (Jul 2026)
+* GenAI Powered Data Analytics Job Simulation — Tata, via Forage (Jul 2026)
+* Introduction to Large Language Models — Google Cloud (Jul 2026)
+* Google Analytics Certification — Google (Jul 2026 – Jul 2027)
+* Introduction to Prompt Engineering for Generative AI — LinkedIn Learning (Jul 2026)
+* What Is Generative AI? — LinkedIn Learning (Jun 2026)
+* Software Product Management: Software Process Model Options — Infosys Springboard (Mar 2026)
+* Software Engineering — Infosys Springboard (Mar 2026)
+* Software Design and Development: Modeling with UML — Infosys Springboard (Mar 2026)
+* Getting Started with Jira — Infosys Springboard (Mar 2026)
+* Pandas — Kaggle (Jul 2026)
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,fastapi,tensorflow,postgres,mysql,react,nextjs,docker,git,github,vscode" />
+</p>
+
+<details>
+<summary><b>Machine Learning & Deep Learning</b></summary>
+<br>
+
+TensorFlow • Scikit-learn • XGBoost • Pandas • NumPy
+
 </details>
 
 <details>
-<summary><b>☀️ HelioSight AI</b></summary>
-<br/>
+<summary><b>Computer Vision</b></summary>
+<br>
 
-Computer vision platform for automated solar panel defect detection using deep learning and thermal image classification.
+OpenCV • TensorFlow
 
-🔗 [Repository](https://github.com/sejalr28/HelioSight-AI)
 </details>
 
 <details>
-<summary><b>🩺 CKD Digital Twin</b></summary>
-<br/>
+<summary><b>Generative AI</b></summary>
+<br>
 
-Healthcare analytics platform predicting chronic kidney disease risk using machine learning, with digital twin simulation and interactive patient analytics.
+LangChain • RAG • Prompt Engineering
 
-🔗 [Repository](https://github.com/sejalr28/ckd-digital-twin)
 </details>
 
 <details>
-<summary><b>🛡️ ReliForge — Multi-LLM Reliability & Evaluation Platform</b></summary>
-<br/>
+<summary><b>Backend & Frontend</b></summary>
+<br>
 
-Multi-provider AI evaluation platform supporting OpenAI, Anthropic, and local Ollama models through a unified FastAPI backend and provider abstraction layer, with persistent experiment tracking via PostgreSQL/SQLAlchemy.
+FastAPI • React • Next.js • Tailwind CSS
 
-| Stack | Scale | Impact |
-|---|---|---|
-| Python, FastAPI, PostgreSQL, Docker, SQLAlchemy, OpenAI API, Anthropic API, Ollama | Containerized backend, modular architecture | Structured storage & comparison of prompts, responses, and evaluation metadata |
+</details>
 
-🔗 [Repository](https://github.com/sejalr28/reliforge)
+<details>
+<summary><b>Databases</b></summary>
+<br>
+
+PostgreSQL • MySQL • ChromaDB
+
+</details>
+
+<details>
+<summary><b>Data Engineering</b></summary>
+<br>
+
+Kafka • PySpark
+
+</details>
+
+<details>
+<summary><b>Visualization</b></summary>
+<br>
+
+Power BI • Tableau • Plotly • Excel
+
+</details>
+
+<details>
+<summary><b>Developer Tools</b></summary>
+<br>
+
+Git • GitHub • Docker • VS Code
+
 </details>
 
 ---
 
-## `$ cat practical-training.log`
+# 📊 GitHub Stats
 
-> No formal internships yet — actively seeking one. Below are verified, real-world practical simulations completed to date.
+<p align="center">
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=sejalr28&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats-eight.vercel.app/?user=sejalr28&theme=tokyonight&hide_border=true"/>
+</p>
 
-**GenAI Powered Data Analytics Job Simulation — Tata (via Forage)** · July 2026
-- Exploratory data analysis and risk profiling
-- Predicting delinquency with AI
-- Business reporting and data storytelling for collections strategy
-- Implementing an AI-driven collections strategy
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sejalr28&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-**Data Analytics Job Simulation — Deloitte (via Forage)** · July 2026
-- Practical tasks in data analysis
-- Practical tasks in forensic technology
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sejalr28&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-## `$ cat achievements.md`
+# 🌱 Currently Learning
+
+* Advanced Machine Learning
+* AI Agents
+* Data Engineering
+* MLOps
+* Distributed Systems
+* Cloud Deployment
+
+---
+
+# 🎯 Career Goals
+
+* Land my first internship in AI/ML or Data Analytics
+* Build production-ready AI products
+* Contribute to Open Source
+* Publish AI projects
+* Strengthen Data Engineering skills
+* Learn scalable AI systems
+
+---
 
 <div align="center">
 
-| Achievement | Detail |
-|---|---|
-| 📊 Published Public Dataset | ScoutVerse Players Dataset live on Kaggle |
-| 🎓 11 Verified Certifications | Across AI, GenAI, Data Analytics, and Software Engineering |
-| 🧪 2 Job Simulations Completed | Deloitte & Tata, via Forage |
-| 🛠️ 8 End-to-End Projects Shipped | Spanning CV, NLP, GenAI, Data Engineering, and BI |
+### ⭐ Building intelligent AI systems that create real-world impact.
 
-</div>
-
----
-
-## `$ cat certifications.md`
-
-- **Data Analytics Job Simulation** — Deloitte, via Forage (Jul 2026)
-- **GenAI Powered Data Analytics Job Simulation** — Tata, via Forage (Jul 2026)
-- **Introduction to Large Language Models** — Google Cloud (Jul 2026)
-- **Google Analytics Certification** — Google (Jul 2026 – Jul 2027)
-- **Introduction to Prompt Engineering for Generative AI** — LinkedIn Learning (Jul 2026)
-- **What Is Generative AI?** — LinkedIn Learning (Jun 2026)
-- **Software Product Management: Software Process Model Options** — Infosys Springboard (Mar 2026)
-- **Software Engineering** — Infosys Springboard (Mar 2026)
-- **Software Design and Development: Modeling with UML** — Infosys Springboard (Mar 2026)
-- **Getting Started with Jira** — Infosys Springboard (Mar 2026)
-- **Pandas** — Kaggle (Jul 2026)
-
----
-
-## `$ cat education.md`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/B.Tech%20CSE%20(AI%20%26%20DS)-1A1B26?style=for-the-badge&labelColor=FFB000&color=1A1B26"/>
-<img src="https://img.shields.io/badge/MIT%20World%20Peace%20University-1A1B26?style=for-the-badge&labelColor=FF6B35&color=1A1B26"/>
-<img src="https://img.shields.io/badge/Final%20Year%20(4th%20Yr)-1A1B26?style=for-the-badge&labelColor=FFB000&color=1A1B26"/>
-
-</div>
-
----
-
-## `$ github --stats`
-
-<p align="center">
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=sejalr28&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFB000&icon_color=FF6B35&text_color=E6EDF3"/>
-<img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=sejalr28&hide_border=true&background=0D1117&ring=FFB000&fire=FF6B35&currStreakLabel=FFB000&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=E6EDF3"/>
-</p>
-
-<p align="center">
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sejalr28&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFB000&text_color=E6EDF3"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sejalr28&bg_color=0D1117&color=FFB000&line=FF6B35&point=E6EDF3&hide_border=true&area=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sejalr28&theme=matrix&no-frame=true&column=7&margin-w=8&margin-h=8"/>
-</p>
-
----
-
-## `$ snake --contribution-graph`
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/sejalr28/sejalr28/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-<sub>⚠️ The snake animation requires a one-time GitHub Actions workflow to be added to this repo (`sejalr28/sejalr28`) so it generates the SVG automatically each day — see setup note below.</sub>
-
----
-
-## `$ cat currently.yaml`
-
-```yaml
-learning:
-  - Advanced Machine Learning
-  - AI Agents
-  - MLOps
-  - Distributed Systems
-building:
-  - ReliForge (Multi-LLM evaluation platform)
-  - ForgeIQ (Manufacturing intelligence platform)
-exploring:
-  - Cloud deployment for AI systems
-  - Data engineering at scale
-open_to:
-  - AI/ML Internship
-  - AI Internship
-  - Data Analyst Internship
-  - Data Scientist (Entry-level)
-```
-
----
-
-## `$ connect --with-me`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sejal-rane-01474427b/"><img src="https://img.shields.io/badge/LinkedIn-FFB000?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=FFB000"/></a>
-<a href="https://ai-engineer-portfolio-three-bice.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=FF6B35"/></a>
-<a href="mailto:sejalrane58@gmail.com"><img src="https://img.shields.io/badge/Email-FFB000?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=FFB000"/></a>
-<a href="https://github.com/sejalr28"><img src="https://img.shields.io/badge/GitHub-FF6B35?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=FF6B35"/></a>
-
-<br/>
-
-*"Learning continuously · Building consistently · Improving every day."*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1A1B26&height=100&section=footer" width="100%"/>
+*Learning continuously • Building consistently • Improving every day.*
 
 </div>
