@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,100:06B6D4&height=180&section=header&text=Hi%20👋,%20I'm%20Sejal%20Rane&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=AI%2FML%20%7C%20Data%20Science%20%7C%20Machine%20Learning%20Engineer&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,100:06B6D4&height=180&section=header&text=Hi%20,%20I'm%20Sejal%20Rane&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=AI%2FML%20%7C%20Data%20Science%20%7C%20Machine%20Learning%20Engineer&descAlignY=60&descSize=18" width="100%"/>
 
 <img src="https://github.com/sejalr28.png" width="150" height="150" style="border-radius:50%; object-fit:cover; border: 3px solid #0891B2;" alt="Sejal Rane" />
 
@@ -161,6 +161,7 @@ MIT World Peace University — Final Year (4th Year)
 * Software Design and Development: Modeling with UML — Infosys Springboard (Mar 2026)
 * Getting Started with Jira — Infosys Springboard (Mar 2026)
 * Pandas — Kaggle (Jul 2026)
+* AI Engineer Core Track: LLM Engineering, RAG, QLoRA, Agents - Udemy
 
 ---
 
